@@ -1,3 +1,11 @@
 const crueltyFreeKitty = require('./functions/crueltyFreeKitty')
+const crueltyFreeKittyBad = require('./functions/crueltyFreeKittyBad')
 
-crueltyFreeKitty()
+async function crawl() {
+  await crueltyFreeKitty()
+  await crueltyFreeKittyBad()
+
+  return true
+}
+
+crawl()

@@ -34,7 +34,7 @@ module.exports = () => {
               'base64'
             )
 
-            let isVegan = false
+            let isVegan = null
             let certifiedBy = null
             let notes = []
             let availability = []
