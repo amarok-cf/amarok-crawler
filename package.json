@@ -1,0 +1,26 @@
+{
+    "name": "amarok",
+    "version": "1.0.0",
+    "description": "Cruelty-Free Products Search",
+    "dependencies": {
+        "add": "^2.0.6",
+        "axios": "^0.18.0",
+        "cheerio": "^1.0.0-rc.2",
+        "deep-diff": "^0.3.8",
+        "dotenv": "^5.0.1",
+        "graphql-request": "^1.5.1",
+        "ramda": "^0.25.0",
+        "yarn": "^1.5.1"
+    },
+    "devDependencies": {
+        "eslint": "^4.19.1",
+        "eslint-config-prettier": "^2.9.0",
+        "eslint-config-standard": "^11.0.0",
+        "eslint-plugin-import": "^2.10.0",
+        "eslint-plugin-node": "^6.0.1",
+        "eslint-plugin-prettier": "^2.6.0",
+        "eslint-plugin-promise": "^3.7.0",
+        "eslint-plugin-standard": "^3.0.1",
+        "prettier": "^1.11.1"
+    }
+}
