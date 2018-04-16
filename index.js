@@ -1,11 +1,9 @@
 const crueltyFreeKitty = require('./sources/crueltyFreeKitty')
 const crueltyFreeKittyBad = require('./sources/crueltyFreeKittyBad')
 
-async function crawl() {
+setInterval(async () => {
+  console.log('Crawling crueltyFreeKitty()')
   await crueltyFreeKitty()
+  console.log('Crawling crueltyFreeKittyBad()')
   await crueltyFreeKittyBad()
-
-  return true
-}
-
-crawl()
+}, 15000)

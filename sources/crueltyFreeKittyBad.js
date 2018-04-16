@@ -24,8 +24,6 @@ module.exports = () => {
         $(el).each((i, el) => {
           let title
 
-          console.log($(el).text())
-
           if ($(el).find('a').length > 0) {
             title = $(el)
               .find('a')
@@ -72,5 +70,4 @@ module.exports = () => {
     .then(() => {
       indexBrands(brands)
     })
-    .catch(error => console.log(error))
 }
