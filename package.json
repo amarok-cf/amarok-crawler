@@ -9,7 +9,7 @@
     "dotenv": "5.0.1",
     "graphql-request": "1.5.1",
     "ramda": "0.25.0",
-    "raven": "^2.5.0"
+    "raven": "2.5.0"
   },
   "devDependencies": {
     "eslint": "4.19.1",
