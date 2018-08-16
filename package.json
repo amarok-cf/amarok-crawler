@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "0.18.0",
     "cheerio": "1.0.0-rc.2",
-    "deep-diff": "0.3.8",
+    "deep-diff": "1.0.2",
     "dotenv": "5.0.1",
     "graphql-request": "1.5.1",
     "ramda": "0.25.0",
