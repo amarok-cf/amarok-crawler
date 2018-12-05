@@ -6,7 +6,7 @@
     "axios": "0.18.0",
     "cheerio": "1.0.0-rc.2",
     "deep-diff": "0.3.8",
-    "dotenv": "5.0.1",
+    "dotenv": "6.2.0",
     "graphql-request": "1.5.1",
     "ramda": "0.25.0",
     "raven": "^2.5.0"
