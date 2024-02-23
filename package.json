@@ -12,7 +12,7 @@
     "raven": "^2.5.0"
   },
   "devDependencies": {
-    "eslint": "4.19.1",
+    "eslint": "8.57.0",
     "eslint-config-prettier": "2.9.0",
     "eslint-config-standard": "11.0.0",
     "eslint-plugin-import": "2.11.0",
