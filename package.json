@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Cruelty-Free Products Search",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.28.1",
     "cheerio": "1.0.0-rc.2",
     "deep-diff": "0.3.8",
     "dotenv": "5.0.1",
